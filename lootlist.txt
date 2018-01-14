@@ -1,0 +1,10 @@
+great =  #0000ff
+golden = #ffff00
+magic longsword = #cc00cc
+klejnutka 19% = #ff0000
+dragon scale legs =  #00b33c
+soul mixture = #cccc00
+klejnutka 5%! = #0000ff
+gold coin = #ffff00
+meat = ham
+wooden = brown

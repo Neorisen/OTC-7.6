@@ -1,0 +1,9 @@
+default = #FE6500
+green = #006400
+red = #f21404
+blue = #436de0
+lightblue = #65eaed
+brown = #4f0514
+ham = #f95e9f
+lightgreen = #26ef3a
+dark_grey = #423c41
